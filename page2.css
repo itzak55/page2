@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url('/page2/drum.avif' );
+    background-repeat: none;
+    background-size: cover;
+    
+    height: 900px;
+}
+h1{
+    font-weight: 500;
+    color:goldenrod;
+    font-size: 50px;
+    text-align: center;
+
+    padding: 95px;
+}
+
+table{
+    padding: 10px;
+    border-collapse: collapse;
+
+}
+
+section{
+    margin: 15px 250px;
+}
+th{
+    font-size: 20px;
+    color:navajowhite;
+    border-bottom:1px solid lightskyblue ;
+}
+
+td{ 
+    
+    font-size: 18px;
+    color:yellowgreen;
+    padding: 15px 60px;
+    border-bottom:1px solid lightskyblue ;
+}
+
+.btn{
+    background-color:deepskyblue;
+width: 73px;
+}
